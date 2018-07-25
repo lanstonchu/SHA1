@@ -1,6 +1,5 @@
 Attribute VB_Name = "main"
 
-' Based on: http://vb.wikia.com/wiki/SHA-1.bas
 Option Explicit
 
 Sub main()
